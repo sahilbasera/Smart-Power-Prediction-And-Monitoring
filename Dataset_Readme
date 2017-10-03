@@ -1,0 +1,4 @@
+The dataset contains sample data of 104 weeks ( around 2 years ) of a hypothetical household.
+The data has occational surges and drops in weekly power consumption to mimic factors like going on a vacation , 
+guests coming home etc. to make the dataset as real as possible .
+First column denotes the week number and second column denotes the power consumed in watts.
